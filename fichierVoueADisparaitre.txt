@@ -1,0 +1,1 @@
+Je te test la fonctionnalité de merge de git // Plus polie quand même, non ?
